@@ -1,0 +1,5 @@
+const dias1 = ['Segunda', 'Terça', 'Quarta']
+const dias2 = ['Quinta', 'Sexta', 'Sabádo', 'Domingo']
+
+const semana = dias1.concat(dias2)
+console.log(semana)
