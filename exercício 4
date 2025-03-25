@@ -1,0 +1,7 @@
+const menuPrincipal = ['Macarrão', 'Feijoada', 'Parmegiana', ' Bife acebolado']
+console.log(menuPrincipal)
+const menuDeSobremesas = ['Bolo de chocolate', 'Torta de maçã', 'Pavê de morango', 'Palha Italiana']
+console.log(menuDeSobremesas)
+
+const menuCompleto = menuPrincipal.concat(menuDeSobremesas)
+console.log(menuCompleto)
